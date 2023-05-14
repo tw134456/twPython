@@ -1,6 +1,6 @@
-twlearnPython
-=============
+twPython
+========
 
-Learning python repo
+python repo
 
-samples and exercises for learning python
+samples and exercises for python
